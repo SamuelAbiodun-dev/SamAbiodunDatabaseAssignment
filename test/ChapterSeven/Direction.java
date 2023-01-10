@@ -1,2 +1,5 @@
-package ChapterSeven;public enum Direction {
+package ChapterSeven;
+
+public enum Direction {
+    SOUTH, WEST, NORTH, EAST
 }

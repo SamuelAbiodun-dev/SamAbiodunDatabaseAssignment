@@ -1,4 +1,7 @@
-import static org.junit.jupiter.api.Assertions.*;
+package Chapter4;
 class GasMileageTest {
-  
+    public static void main(String[] args) {
+        GasMileage mile = new GasMileage();
+        mile.getMileage();
+    }
 }

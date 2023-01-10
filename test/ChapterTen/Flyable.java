@@ -1,4 +1,6 @@
-import static org.junit.jupiter.api.Assertions.*;
-class DuckTest {
-  
+package ChapterTen;
+
+public interface  Flyable {
+
+    void fly();
 }

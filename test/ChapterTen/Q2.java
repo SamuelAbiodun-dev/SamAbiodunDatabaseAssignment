@@ -1,4 +1,9 @@
-import static org.junit.jupiter.api.Assertions.*;
-class Q2 {
-  
+package ChapterTen;
+
+class Q2 implements Quackable {
+
+@Override
+    public void quack(){
+    System.out.println("Q2");
+}
 }

@@ -1,2 +1,5 @@
-package ChapterTen;public interface Quackable {
+package ChapterTen;
+
+public interface Quackable {
+    void quack();
 }

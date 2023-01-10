@@ -1,4 +1,9 @@
-import static org.junit.jupiter.api.Assertions.*;
-class DuckTest {
-  
+package ChapterTen;
+
+public class Q1 implements Quackable {
+
+@Override
+    public void quack(){
+    System.out.println("Q1");
+}
 }
